@@ -30,6 +30,9 @@ public class Main {
                 System.out.println(cell.getCellType());
                System.out.println(cell.getStringCellValue());
 
+               System.out.println("Checking");
+
+
             }
         }
 
