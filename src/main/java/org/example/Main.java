@@ -29,7 +29,6 @@ public class Main {
                 Cell cell = cellIterator.next();
                 System.out.println(cell.getCellType());
                System.out.println(cell.getStringCellValue());
-
                System.out.println("Checking");
 
 
